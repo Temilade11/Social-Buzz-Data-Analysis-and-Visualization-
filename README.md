@@ -83,7 +83,8 @@ _You can download the PowerPoint here!_
 4. 5 years Monthly Performance
    
  
-![IMG_20240517_01145](https://github.com/Temilade11/Social-Buzz-Data-Analysis-and-Visualization-/assets/163453289/7af95d78-2f25-4a31-959f-2e0297330e5f)
+![IMG_20240520_220355](https://github.com/Temilade11/Social-Buzz-Data-Analysis-and-Visualization-/assets/163453289/ab1b0a28-9acf-4c4a-9994-1b4150acd104)
+
 
 _Data Source: Forage_
 
